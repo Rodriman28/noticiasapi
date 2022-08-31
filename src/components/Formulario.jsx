@@ -36,11 +36,6 @@ const Formulario = () => {
             </MenuItem>
           ))}
         </Select>
-        <Box sx={{ marginTop: 2 }}>
-          <Button fullWidth variant="contained">
-            Buscar Noticias
-          </Button>
-        </Box>
       </FormControl>
     </form>
   );
